@@ -20,7 +20,6 @@ module ChatApp
       g.helper false
       g.javascripts false
       g.test_framework false
-      
     end
   end
 end
